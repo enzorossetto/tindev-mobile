@@ -11,6 +11,8 @@ Moile app built with React Native and works with the server built with Node.js a
 
 ## **Instructions**
 
+On the app use your **GitHub username** to login.
+
 In the project directory, you can run:
 
 _**`react-native start`**_ to start the application
