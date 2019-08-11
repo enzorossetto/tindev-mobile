@@ -13,7 +13,7 @@ Moile app built with React Native and works with the server built with Node.js a
 
 In the project directory, you can run:
 
-_**`react-native start`**_ to start the application run on your terminal
+Run on your terminal _**`react-native start`**_ to start the application
 
 Then with your phone connected via USB run on a new terminal tab
 - _**`react-native run-android`**_ if on Android 
