@@ -19,4 +19,4 @@ Then with your phone connected via USB run on a new terminal tab
 - _**`react-native run-android`**_ if on Android 
 -  _**`react-native run-ios`**_ if on iOS
 
-**Note:** If using Android run on terminal the command _**`adb reverse tcp:3333 tcp:3333`**_ with your phone connected via USB and with USB debugging on. Or change **`baseURL`** on **api.js** to "http://yourIP:3333".
+**Note:** If using Android run on terminal the command _**`adb reverse tcp:3333 tcp:3333`**_ with your phone connected via USB and with USB debugging on. Or change **`baseURL`** on **api.js** to "`http://yourIP:3333`".
