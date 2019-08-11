@@ -11,12 +11,12 @@ Moile app built with React Native and works with the server built with Node.js a
 
 ## **Instructions**
 
-**Run all commands on repo folder**
+In the project directory, you can run:
 
-To start the application run on your terminal _**react-native start**_
+_**`react-native start`**_ to start the application run on your terminal
 
 Then with your phone connected via USB run on a new terminal tab
-- if on Android  _**react-native run-android**_
-- if on iOS  _**react-native run-ios**_
+- _**`react-native run-android`**_ if on Android 
+-  _**`react-native run-ios`**_ if on iOS
 
-**Note:** If using Android run on terminal the command _**adb reverse tcp:3333 tcp:3333**_ with your phone connected via USB and with USB debugging on. Or change **baseURL** on **api.js** to "http://yourIP:3333".
+**Note:** If using Android run on terminal the command _**`adb reverse tcp:3333 tcp:3333`**_ with your phone connected via USB and with USB debugging on. Or change **`baseURL`** on **api.js** to "http://yourIP:3333".
